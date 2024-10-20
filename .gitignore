@@ -1,0 +1,11 @@
+.venv
+venv/
+
+.wav
+.mp3
+.mp4
+.srt
+.tsv
+.txt
+.vtt
+.json
